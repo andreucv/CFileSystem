@@ -1,0 +1,700 @@
+Verificació del procés 2284:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 5622.
+		Posició major = 486695.
+		Temps primer = 2013-08-31 22:38:18
+		Temps darrer = 2013-08-31 22:38:46
+Verificació del procés 2285:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 26391.
+		Posició major = 492303.
+		Temps primer = 2013-08-31 22:38:19
+		Temps darrer = 2013-08-31 22:38:46
+Verificació del procés 2286:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 3921.
+		Posició major = 486177.
+		Temps primer = 2013-08-31 22:38:19
+		Temps darrer = 2013-08-31 22:38:46
+Verificació del procés 2287:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 2012.
+		Posició major = 481356.
+		Temps primer = 2013-08-31 22:38:19
+		Temps darrer = 2013-08-31 22:38:46
+Verificació del procés 2288:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 7095.
+		Posició major = 492048.
+		Temps primer = 2013-08-31 22:38:19
+		Temps darrer = 2013-08-31 22:38:46
+Verificació del procés 2289:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 26619.
+		Posició major = 491724.
+		Temps primer = 2013-08-31 22:38:19
+		Temps darrer = 2013-08-31 22:38:46
+Verificació del procés 2290:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 451.
+		Posició major = 478122.
+		Temps primer = 2013-08-31 22:38:20
+		Temps darrer = 2013-08-31 22:38:47
+Verificació del procés 2291:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 10992.
+		Posició major = 476237.
+		Temps primer = 2013-08-31 22:38:20
+		Temps darrer = 2013-08-31 22:38:47
+Verificació del procés 2292:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 2081.
+		Posició major = 479724.
+		Temps primer = 2013-08-31 22:38:20
+		Temps darrer = 2013-08-31 22:38:47
+Verificació del procés 2293:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 3063.
+		Posició major = 499853.
+		Temps primer = 2013-08-31 22:38:20
+		Temps darrer = 2013-08-31 22:38:47
+Verificació del procés 2294:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 5857.
+		Posició major = 498323.
+		Temps primer = 2013-08-31 22:38:20
+		Temps darrer = 2013-08-31 22:38:47
+Verificació del procés 2295:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 1659.
+		Posició major = 499065.
+		Temps primer = 2013-08-31 22:38:21
+		Temps darrer = 2013-08-31 22:38:47
+Verificació del procés 2296:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 5052.
+		Posició major = 487660.
+		Temps primer = 2013-08-31 22:38:21
+		Temps darrer = 2013-08-31 22:38:47
+Verificació del procés 2297:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 22799.
+		Posició major = 499460.
+		Temps primer = 2013-08-31 22:38:21
+		Temps darrer = 2013-08-31 22:38:47
+Verificació del procés 2298:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 11059.
+		Posició major = 493769.
+		Temps primer = 2013-08-31 22:38:21
+		Temps darrer = 2013-08-31 22:38:48
+Verificació del procés 2299:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 7824.
+		Posició major = 465105.
+		Temps primer = 2013-08-31 22:38:21
+		Temps darrer = 2013-08-31 22:38:48
+Verificació del procés 2300:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 38479.
+		Posició major = 482778.
+		Temps primer = 2013-08-31 22:38:21
+		Temps darrer = 2013-08-31 22:38:48
+Verificació del procés 2301:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 15736.
+		Posició major = 491807.
+		Temps primer = 2013-08-31 22:38:21
+		Temps darrer = 2013-08-31 22:38:48
+Verificació del procés 2302:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 28319.
+		Posició major = 497406.
+		Temps primer = 2013-08-31 22:38:21
+		Temps darrer = 2013-08-31 22:38:48
+Verificació del procés 2303:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 24153.
+		Posició major = 496139.
+		Temps primer = 2013-08-31 22:38:21
+		Temps darrer = 2013-08-31 22:38:48
+Verificació del procés 2304:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 1783.
+		Posició major = 499419.
+		Temps primer = 2013-08-31 22:38:22
+		Temps darrer = 2013-08-31 22:38:48
+Verificació del procés 2305:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 1035.
+		Posició major = 487117.
+		Temps primer = 2013-08-31 22:38:22
+		Temps darrer = 2013-08-31 22:38:48
+Verificació del procés 2306:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 2791.
+		Posició major = 494334.
+		Temps primer = 2013-08-31 22:38:22
+		Temps darrer = 2013-08-31 22:38:49
+Verificació del procés 2307:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 8965.
+		Posició major = 469788.
+		Temps primer = 2013-08-31 22:38:22
+		Temps darrer = 2013-08-31 22:38:49
+Verificació del procés 2308:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 1352.
+		Posició major = 477349.
+		Temps primer = 2013-08-31 22:38:22
+		Temps darrer = 2013-08-31 22:38:49
+Verificació del procés 2309:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 13794.
+		Posició major = 490718.
+		Temps primer = 2013-08-31 22:38:22
+		Temps darrer = 2013-08-31 22:38:49
+Verificació del procés 2311:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 1746.
+		Posició major = 479499.
+		Temps primer = 2013-08-31 22:38:22
+		Temps darrer = 2013-08-31 22:38:49
+Verificació del procés 2310:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 138.
+		Posició major = 497521.
+		Temps primer = 2013-08-31 22:38:22
+		Temps darrer = 2013-08-31 22:38:49
+Verificació del procés 2312:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 2143.
+		Posició major = 498517.
+		Temps primer = 2013-08-31 22:38:23
+		Temps darrer = 2013-08-31 22:38:49
+Verificació del procés 2313:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 12990.
+		Posició major = 482276.
+		Temps primer = 2013-08-31 22:38:23
+		Temps darrer = 2013-08-31 22:38:49
+Verificació del procés 2314:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 5881.
+		Posició major = 487368.
+		Temps primer = 2013-08-31 22:38:23
+		Temps darrer = 2013-08-31 22:38:50
+Verificació del procés 2315:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 1050.
+		Posició major = 482108.
+		Temps primer = 2013-08-31 22:38:23
+		Temps darrer = 2013-08-31 22:38:50
+Verificació del procés 2316:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 13155.
+		Posició major = 499848.
+		Temps primer = 2013-08-31 22:38:23
+		Temps darrer = 2013-08-31 22:38:50
+Verificació del procés 2317:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 7213.
+		Posició major = 483147.
+		Temps primer = 2013-08-31 22:38:23
+		Temps darrer = 2013-08-31 22:38:50
+Verificació del procés 2318:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 1607.
+		Posició major = 484681.
+		Temps primer = 2013-08-31 22:38:23
+		Temps darrer = 2013-08-31 22:38:50
+Verificació del procés 2319:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 12913.
+		Posició major = 484699.
+		Temps primer = 2013-08-31 22:38:23
+		Temps darrer = 2013-08-31 22:38:50
+Verificació del procés 2320:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 34349.
+		Posició major = 495953.
+		Temps primer = 2013-08-31 22:38:23
+		Temps darrer = 2013-08-31 22:38:50
+Verificació del procés 2321:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 39203.
+		Posició major = 493926.
+		Temps primer = 2013-08-31 22:38:24
+		Temps darrer = 2013-08-31 22:38:50
+Verificació del procés 2322:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 13729.
+		Posició major = 499754.
+		Temps primer = 2013-08-31 22:38:24
+		Temps darrer = 2013-08-31 22:38:51
+Verificació del procés 2323:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 3416.
+		Posició major = 493905.
+		Temps primer = 2013-08-31 22:38:24
+		Temps darrer = 2013-08-31 22:38:51
+Verificació del procés 2324:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 3276.
+		Posició major = 486834.
+		Temps primer = 2013-08-31 22:38:24
+		Temps darrer = 2013-08-31 22:38:51
+Verificació del procés 2325:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 2508.
+		Posició major = 469226.
+		Temps primer = 2013-08-31 22:38:24
+		Temps darrer = 2013-08-31 22:38:51
+Verificació del procés 2326:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 18456.
+		Posició major = 489066.
+		Temps primer = 2013-08-31 22:38:24
+		Temps darrer = 2013-08-31 22:38:51
+Verificació del procés 2327:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 6806.
+		Posició major = 495179.
+		Temps primer = 2013-08-31 22:38:24
+		Temps darrer = 2013-08-31 22:38:51
+Verificació del procés 2328:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 2197.
+		Posició major = 475713.
+		Temps primer = 2013-08-31 22:38:24
+		Temps darrer = 2013-08-31 22:38:51
+Verificació del procés 2329:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 21260.
+		Posició major = 496060.
+		Temps primer = 2013-08-31 22:38:25
+		Temps darrer = 2013-08-31 22:38:51
+Verificació del procés 2330:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 5429.
+		Posició major = 493727.
+		Temps primer = 2013-08-31 22:38:25
+		Temps darrer = 2013-08-31 22:38:52
+Verificació del procés 2331:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 16684.
+		Posició major = 481946.
+		Temps primer = 2013-08-31 22:38:25
+		Temps darrer = 2013-08-31 22:38:52
+Verificació del procés 2332:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 12034.
+		Posició major = 499317.
+		Temps primer = 2013-08-31 22:38:25
+		Temps darrer = 2013-08-31 22:38:52
+Verificació del procés 2333:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 6425.
+		Posició major = 495581.
+		Temps primer = 2013-08-31 22:38:25
+		Temps darrer = 2013-08-31 22:38:52
+Verificació del procés 2334:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 53187.
+		Posició major = 498607.
+		Temps primer = 2013-08-31 22:38:25
+		Temps darrer = 2013-08-31 22:38:52
+Verificació del procés 2335:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 10357.
+		Posició major = 487065.
+		Temps primer = 2013-08-31 22:38:25
+		Temps darrer = 2013-08-31 22:38:52
+Verificació del procés 2336:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 17818.
+		Posició major = 478816.
+		Temps primer = 2013-08-31 22:38:25
+		Temps darrer = 2013-08-31 22:38:52
+Verificació del procés 2337:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 7761.
+		Posició major = 490662.
+		Temps primer = 2013-08-31 22:38:25
+		Temps darrer = 2013-08-31 22:38:52
+Verificació del procés 2338:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 10971.
+		Posició major = 490612.
+		Temps primer = 2013-08-31 22:38:25
+		Temps darrer = 2013-08-31 22:38:53
+Verificació del procés 2339:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 25998.
+		Posició major = 498164.
+		Temps primer = 2013-08-31 22:38:26
+		Temps darrer = 2013-08-31 22:38:53
+Verificació del procés 2340:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 11265.
+		Posició major = 484652.
+		Temps primer = 2013-08-31 22:38:26
+		Temps darrer = 2013-08-31 22:38:53
+Verificació del procés 2341:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 5315.
+		Posició major = 487263.
+		Temps primer = 2013-08-31 22:38:26
+		Temps darrer = 2013-08-31 22:38:53
+Verificació del procés 2342:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 9619.
+		Posició major = 486553.
+		Temps primer = 2013-08-31 22:38:26
+		Temps darrer = 2013-08-31 22:38:53
+Verificació del procés 2343:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 3816.
+		Posició major = 492061.
+		Temps primer = 2013-08-31 22:38:26
+		Temps darrer = 2013-08-31 22:38:53
+Verificació del procés 2344:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 8593.
+		Posició major = 492129.
+		Temps primer = 2013-08-31 22:38:26
+		Temps darrer = 2013-08-31 22:38:53
+Verificació del procés 2345:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 517.
+		Posició major = 492708.
+		Temps primer = 2013-08-31 22:38:26
+		Temps darrer = 2013-08-31 22:38:54
+Verificació del procés 2346:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 2973.
+		Posició major = 490255.
+		Temps primer = 2013-08-31 22:38:26
+		Temps darrer = 2013-08-31 22:38:54
+Verificació del procés 2347:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 19902.
+		Posició major = 499938.
+		Temps primer = 2013-08-31 22:38:26
+		Temps darrer = 2013-08-31 22:38:54
+Verificació del procés 2348:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 4939.
+		Posició major = 473756.
+		Temps primer = 2013-08-31 22:38:26
+		Temps darrer = 2013-08-31 22:38:54
+Verificació del procés 2349:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 535.
+		Posició major = 498023.
+		Temps primer = 2013-08-31 22:38:27
+		Temps darrer = 2013-08-31 22:38:54
+Verificació del procés 2350:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 4312.
+		Posició major = 498126.
+		Temps primer = 2013-08-31 22:38:27
+		Temps darrer = 2013-08-31 22:38:54
+Verificació del procés 2351:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 4444.
+		Posició major = 498168.
+		Temps primer = 2013-08-31 22:38:27
+		Temps darrer = 2013-08-31 22:38:54
+Verificació del procés 2352:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 31441.
+		Posició major = 485879.
+		Temps primer = 2013-08-31 22:38:27
+		Temps darrer = 2013-08-31 22:38:54
+Verificació del procés 2353:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 1181.
+		Posició major = 487000.
+		Temps primer = 2013-08-31 22:38:27
+		Temps darrer = 2013-08-31 22:38:55
+Verificació del procés 2354:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 16510.
+		Posició major = 499469.
+		Temps primer = 2013-08-31 22:38:27
+		Temps darrer = 2013-08-31 22:38:55
+Verificació del procés 2355:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 5027.
+		Posició major = 474753.
+		Temps primer = 2013-08-31 22:38:27
+		Temps darrer = 2013-08-31 22:38:55
+Verificació del procés 2356:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 774.
+		Posició major = 498545.
+		Temps primer = 2013-08-31 22:38:27
+		Temps darrer = 2013-08-31 22:38:55
+Verificació del procés 2357:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 7486.
+		Posició major = 486403.
+		Temps primer = 2013-08-31 22:38:27
+		Temps darrer = 2013-08-31 22:38:55
+Verificació del procés 2358:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 263.
+		Posició major = 499151.
+		Temps primer = 2013-08-31 22:38:27
+		Temps darrer = 2013-08-31 22:38:55
+Verificació del procés 2359:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 16078.
+		Posició major = 499642.
+		Temps primer = 2013-08-31 22:38:28
+		Temps darrer = 2013-08-31 22:38:55
+Verificació del procés 2360:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 18902.
+		Posició major = 485588.
+		Temps primer = 2013-08-31 22:38:28
+		Temps darrer = 2013-08-31 22:38:56
+Verificació del procés 2361:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 1557.
+		Posició major = 498141.
+		Temps primer = 2013-08-31 22:38:28
+		Temps darrer = 2013-08-31 22:38:56
+Verificació del procés 2363:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 31000.
+		Posició major = 499077.
+		Temps primer = 2013-08-31 22:38:28
+		Temps darrer = 2013-08-31 22:38:56
+Verificació del procés 2364:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 12778.
+		Posició major = 473829.
+		Temps primer = 2013-08-31 22:38:28
+		Temps darrer = 2013-08-31 22:38:56
+Verificació del procés 2362:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 12679.
+		Posició major = 498393.
+		Temps primer = 2013-08-31 22:38:28
+		Temps darrer = 2013-08-31 22:38:56
+Verificació del procés 2365:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 3966.
+		Posició major = 492422.
+		Temps primer = 2013-08-31 22:38:28
+		Temps darrer = 2013-08-31 22:38:56
+Verificació del procés 2366:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 12912.
+		Posició major = 492649.
+		Temps primer = 2013-08-31 22:38:28
+		Temps darrer = 2013-08-31 22:38:56
+Verificació del procés 2367:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 320.
+		Posició major = 497348.
+		Temps primer = 2013-08-31 22:38:28
+		Temps darrer = 2013-08-31 22:38:57
+Verificació del procés 2368:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 24830.
+		Posició major = 496672.
+		Temps primer = 2013-08-31 22:38:28
+		Temps darrer = 2013-08-31 22:38:57
+Verificació del procés 2369:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 35764.
+		Posició major = 486337.
+		Temps primer = 2013-08-31 22:38:28
+		Temps darrer = 2013-08-31 22:38:57
+Verificació del procés 2370:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 19282.
+		Posició major = 483890.
+		Temps primer = 2013-08-31 22:38:28
+		Temps darrer = 2013-08-31 22:38:57
+Verificació del procés 2371:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 12772.
+		Posició major = 496116.
+		Temps primer = 2013-08-31 22:38:28
+		Temps darrer = 2013-08-31 22:38:57
+Verificació del procés 2372:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 6325.
+		Posició major = 486005.
+		Temps primer = 2013-08-31 22:38:28
+		Temps darrer = 2013-08-31 22:38:57
+Verificació del procés 2373:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 1386.
+		Posició major = 492743.
+		Temps primer = 2013-08-31 22:38:29
+		Temps darrer = 2013-08-31 22:38:57
+Verificació del procés 2374:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 12660.
+		Posició major = 489805.
+		Temps primer = 2013-08-31 22:38:29
+		Temps darrer = 2013-08-31 22:38:57
+Verificació del procés 2375:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 25079.
+		Posició major = 499599.
+		Temps primer = 2013-08-31 22:38:29
+		Temps darrer = 2013-08-31 22:38:58
+Verificació del procés 2376:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 11794.
+		Posició major = 491147.
+		Temps primer = 2013-08-31 22:38:29
+		Temps darrer = 2013-08-31 22:38:58
+Verificació del procés 2378:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 21044.
+		Posició major = 453150.
+		Temps primer = 2013-08-31 22:38:29
+		Temps darrer = 2013-08-31 22:38:58
+Verificació del procés 2379:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 13133.
+		Posició major = 498084.
+		Temps primer = 2013-08-31 22:38:29
+		Temps darrer = 2013-08-31 22:38:58
+Verificació del procés 2380:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 20251.
+		Posició major = 493720.
+		Temps primer = 2013-08-31 22:38:29
+		Temps darrer = 2013-08-31 22:38:58
+Verificació del procés 2381:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 568.
+		Posició major = 499051.
+		Temps primer = 2013-08-31 22:38:29
+		Temps darrer = 2013-08-31 22:38:58
+Verificació del procés 2382:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 2635.
+		Posició major = 498084.
+		Temps primer = 2013-08-31 22:38:29
+		Temps darrer = 2013-08-31 22:38:58
+Verificació del procés 2383:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 806.
+		Posició major = 498444.
+		Temps primer = 2013-08-31 22:38:29
+		Temps darrer = 2013-08-31 22:38:58
+Verificació del procés 2384:
+	Nombre de Validacions: 50.
+	Informació dels Registres:
+		Posició menor = 31154.
+		Posició major = 499346.
+		Temps primer = 2013-08-31 22:38:29
+		Temps darrer = 2013-08-31 22:38:59
