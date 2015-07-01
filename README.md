@@ -1,7 +1,7 @@
 # CFileSystem
 File System in C Language
 
-It includes the functions to create, list, write, link and remove files.
+It includes the functions to create, list, write, link and remove files and others. </br>
 Add permissions and remove them is also developed.
 
 The implementation of it was in phases, from core to latest functions:
